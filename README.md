@@ -1,4 +1,6 @@
 # PrimeFlex
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fprimeflex.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fprimeflex?ref=badge_shield)
+
 PrimeFlex is a lightweight flex based responsive layout utility optimized for mobile phones, tablets and desktops.
 
 
@@ -221,3 +223,7 @@ A .5 em padding is applied to each column along with negative margins on the con
     <div class="p-col">3</div>
 </div>
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fprimeflex.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fprimeflex?ref=badge_large)
